@@ -1,0 +1,119 @@
+html{
+    font-size: 100%;
+}
+body{
+    font-size: 0.9rem;
+} 
+a{
+text-decoration: none;
+}
+li{
+    list-style: none;
+}
+
+img{
+    max-width: 100%;
+}
+
+.site-title{
+    width: 120px;
+    line-height: 1px;
+    padding: 10 0;
+}
+.site-title a{
+    display: block;
+}
+.section-title{
+    display: block;
+    font-size: 2rem;
+    text-align: center;
+    margin-bottom: 60px;
+    border-bottom: solid black;
+}
+.contente-title{
+    font-size: 1rem;
+    margin: 10px 0;
+}
+.main-visual{
+    margin-bottom: 80px;
+}
+.main-visual img{
+    height: 600px;
+    width: 100%;
+    max-width: 1920px;
+    object-fit: cover;
+}
+.about .myname{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.myname img{
+    border-radius: 50%;
+    margin-left: 30px;
+}
+.myname .text{
+    text-align: left;
+}
+header h1{
+    width: 120px;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    align-items: center;
+}
+.header ul{
+    display: flex;
+    padding: 10px 0;
+}
+.header li{
+    margin-left: 30px;
+}
+
+ul li{
+    display: inline-block;
+    padding: 10px;
+}
+.about h2{
+    text-align: center;
+    border-bottom: 10px black;
+}
+.myname img{
+    width: 50px;
+    border: solid black;
+    border-radius: 50%;
+}
+.myname{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+#wrapper{
+    width: 960px;
+    padding: 4%;
+    margin: 0 auto 100px auto;
+    text-align: center;
+}
+.contente-title{
+    font-size: 1rem;
+    margin: 10px 0;
+}
+.about{
+    margin-top: 30px;
+}
+.bicycle h2{
+    text-align: center;
+    margin: 20px
+     0;
+}
+.bicycle-list{
+    display: flex;
+    
+}
+footer{
+    font-size: 0.2rem;
+    text-align: center;
+}
